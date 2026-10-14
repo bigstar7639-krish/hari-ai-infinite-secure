@@ -1,0 +1,7 @@
+{
+  "name": "hari-ai-infinite-secure",
+  "version": "100000.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
